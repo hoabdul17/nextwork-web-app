@@ -6,7 +6,7 @@
 
 <p>You finally got the NextWork web application working!</p>
 
-<p>This is my nano text!<p>
+<p>Github Practice!<p>
 
 </body>
 
